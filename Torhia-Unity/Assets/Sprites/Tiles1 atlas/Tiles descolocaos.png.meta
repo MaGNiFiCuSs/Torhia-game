@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: f1f1193f0958c0043a854053a5e62f79
+timeCreated: 1512384815
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Colocacion tiles_0
+    21300002: Colocacion tiles_1
+    21300004: Colocacion tiles_2
+    21300006: Colocacion tiles_3
+    21300008: Colocacion tiles_4
+    21300010: Colocacion tiles_5
+    21300012: Colocacion tiles_6
+    21300014: Colocacion tiles_7
+    21300016: Colocacion tiles_8
+    21300018: Colocacion tiles_9
+    21300020: Colocacion tiles_10
+    21300022: Colocacion tiles_11
+    21300024: Colocacion tiles_12
+    21300026: Colocacion tiles_13
+    21300028: Colocacion tiles_14
+    21300030: Colocacion tiles_15
+    21300032: Colocacion tiles_16
+    21300034: Colocacion tiles_17
+    21300036: Colocacion tiles_18
+    21300038: Colocacion tiles_19
+    21300040: Colocacion tiles_20
+    21300042: Colocacion tiles_21
+    21300044: Colocacion tiles_22
+    21300046: Colocacion tiles_23
+    21300048: Colocacion tiles_24
+    21300050: Colocacion tiles_25
+    21300052: Colocacion tiles_26
+    21300054: Colocacion tiles_27
+    21300056: Colocacion tiles_28
+    21300058: Colocacion tiles_29
+    21300060: Colocacion tiles_30
+    21300062: Colocacion tiles_31
+    21300064: Colocacion tiles_32
+    21300066: Colocacion tiles_33
+    21300068: Colocacion tiles_34
+    21300070: Colocacion tiles_35
+    21300072: Colocacion tiles_36
+    21300074: Colocacion tiles_37
+    21300076: Colocacion tiles_38
+    21300078: Colocacion tiles_39
+    21300080: Colocacion tiles_40
+    21300082: Colocacion tiles_41
+    21300084: Colocacion tiles_42
+    21300086: Colocacion tiles_43
+    21300088: Colocacion tiles_44
+    21300090: Colocacion tiles_45
+    21300092: Colocacion tiles_46
+    21300094: Colocacion tiles_47
+    21300096: Colocacion tiles_48
+    21300098: Colocacion tiles_49
+    21300100: Colocacion tiles_50
+    21300102: Colocacion tiles_51
+    21300104: Colocacion tiles_52
+    21300106: Colocacion tiles_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colocacion tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_1
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_2
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_3
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_4
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_5
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_6
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_7
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_8
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 3074.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_10
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_13
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_14
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_15
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_16
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_17
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 2460.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_22
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_23
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_24
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_25
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_26
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1846.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_28
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_29
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_31
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_32
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_33
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_34
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_35
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1232.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_37
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_38
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_39
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_40
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_41
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_42
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_43
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_44
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 618.1667
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_46
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_47
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_48
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_49
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_50
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_51
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_52
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Colocacion tiles_53
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 4.166687
+        width: 617.1111
+        height: 614.8333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
